@@ -1,0 +1,50 @@
+{
+  "Breakfast": {
+    "Dosa": "Ingredients: Rice, Urad Dal, Salt. \\n Prep Time: 15 mins",
+    "Idli": "Ingredients: Rice, Urad Dal, Baking Soda.\\n  Prep Time: 20 mins",
+    "Misal-Pav": "Ingredients: Sprouts, Spices, Pav.\\n Prep Time: 25 mins",
+    "Pav-Bhaji": "Ingredients: Pav, Mashed Vegetables, Spices.\\n Prep Time: 20 mins",
+    "Sabudana-Wada": "Ingredients: Sabudana, Potatoes, Peanuts, Spices.\\n Prep Time: 30 mins",
+    "Wada-Sambhar": "Ingredients: Urad Dal, Tamarind, Lentils, Spices.\\n Prep Time: 35 mins",
+    "Omlette": "Ingredients: Eggs, Onion, Spices.\\n Prep Time: 10 mins",
+    "Egg-Bhurji": "Ingredients: Eggs, Onion, Tomato, Spices.\\n Prep Time: 15 mins",
+    "Aloo Paratha": "Ingredients: Wheat Flour, Potato, Spices.\\n Prep Time: 25 mins",
+    "Paratha": "Ingredients: Wheat Flour, Ghee.\\n Prep Time: 15 mins"
+  },
+  "Lunch": {
+    "Paneer Bhurji": "Ingredients: Paneer, Tomato, Spices.\\n Prep Time: 20 mins",
+    "Butter Paneer": "Ingredients: Paneer, Butter, Cream, Tomato, Spices.\\n Prep Time: 30 mins",
+    "Dal": "Ingredients: Lentils, Spices, Ghee.\\n Prep Time: 25 mins",
+    "Rice": "Ingredients: Rice, Water.\\n Prep Time: 20 mins",
+    "Egg-Curry": "Ingredients: Eggs, Onion, Tomato, Spices.\\n Prep Time: 30 mins",
+    "Dal-Curry": "Ingredients: Lentils, Coconut, Spices.\\n Prep Time: 30 mins",
+    "Aloo-Muttor": "Ingredients: Potatoes, Peas, Spices.\\n Prep Time: 25 mins",
+    "Palak-Gobi": "Ingredients: Spinach, Cauliflower, Spices.\\n Prep Time: 30 mins",
+    "Bhendi": "Ingredients: Okra, Onion, Spices.\\n Prep Time: 20 mins",
+    "Rajma-Chawal": "Ingredients: Kidney Beans, Tomato, Spices, Rice.\\n Prep Time: 40 mins"
+  },
+  "Dinner": {
+    "Paneer Kadai": "Ingredients: Paneer, Capsicum, Tomato, Spices.\\n Prep Time: 30 mins",
+    "Mix-Veg": "Ingredients: Seasonal Vegetables, Spices.\\n Prep Time: 25 mins",
+    "Roti": "Ingredients: Wheat Flour, Water.\\n Prep Time: 15 mins",
+    "Paratha": "Ingredients: Wheat Flour, Ghee.\\n Prep Time: 15 mins",
+    "Chicken-Curry": "Ingredients: Chicken, Onion, Tomato, Spices.\\n Prep Time: 40 mins",
+    "Baingan Bharta": "Ingredients: Eggplant, Tomato, Spices.\\n Prep Time: 30 mins",
+    "Methi Thepla": "Ingredients: Fenugreek Leaves, Wheat Flour, Spices.\\n Prep Time: 25 mins",
+    "Dal Tadka": "Ingredients: Lentils, Garlic, Ghee, Spices.\\n Prep Time: 30 mins",
+    "Fish Curry": "Ingredients: Fish, Coconut, Spices.\\n Prep Time: 40 mins",
+    "Jeera Rice": "Ingredients: Rice, Cumin, Ghee.\\n Prep Time: 20 mins"
+  },
+  "Snacks": {
+    "Tea": "Ingredients: Tea Leaves, Milk, Sugar.\\n Prep Time: 5 mins",
+    "Coffee": "Ingredients: Coffee Powder, Milk, Sugar.\\n Prep Time: 5 mins",
+    "Ice-Tea": "Ingredients: Tea, Ice Cubes, Lemon, Sugar.\\n Prep Time: 10 mins",
+    "Cold-Coffee": "Ingredients: Coffee, Milk, Ice Cubes, Sugar.\\n Prep Time: 10 mins",
+    "French-Fries": "Ingredients: Potatoes, Oil, Salt.\\n Prep Time: 20 mins",
+    "Pakode": "Ingredients: Gram Flour, Vegetables, Spices.\\n Prep Time: 20 mins",
+    "Samosa": "Ingredients: Potato, Flour, Spices, Oil.\\n Prep Time: 30 mins",
+    "Fruit-Plate": "Ingredients: Seasonal Fruits.\\n Prep Time: 5 mins",
+    "Chana Chaat": "Ingredients: Chickpeas, Onion, Tomato, Spices.\\n Prep Time: 10 mins",
+    "Dhokla": "Ingredients: Gram Flour, Curd, Spices.\\n Prep Time: 25 mins"
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "Veg": {
+    "Bulking": {
+      "Day 1": {
+        "Breakfast": { "Meal": "Oats with banana and peanut butter", "Calories": 400 },
+        "Lunch": { "Meal": "Paneer curry with rice", "Calories": 600 },
+        "Dinner": { "Meal": "Dal khichdi with curd", "Calories": 500 }
+      },
+      "Day 2": {
+        "Breakfast": { "Meal": "Vegetable sandwich with milk", "Calories": 350 },
+        "Lunch": { "Meal": "Paneer curry with rice", "Calories": 600 },
+        "Dinner": { "Meal": "Dal khichdi with curd", "Calories": 500 }
+      },
+      "Day 3": {
+        "Breakfast": { "Meal": "Oats with banana and peanut butter", "Calories": 400 },
+        "Lunch": { "Meal": "Roti with mixed vegetables", "Calories": 500 },
+        "Dinner": { "Meal": "Grilled tofu with salad", "Calories": 450 }
+      },
+      "Day 4": {
+        "Breakfast": { "Meal": "Oats with banana and peanut butter", "Calories": 400 },
+        "Lunch": { "Meal": "Paneer curry with rice", "Calories": 600 },
+        "Dinner": { "Meal": "Dal khichdi with curd", "Calories": 500 }
+      },
+      "Day 5": {
+        "Breakfast": { "Meal": "Vegetable sandwich with milk", "Calories": 350 },
+        "Lunch": { "Meal": "Roti with mixed vegetables", "Calories": 500 },
+        "Dinner": { "Meal": "Grilled tofu with salad", "Calories": 450 }
+      },
+      "Day 6": {
+        "Breakfast": { "Meal": "Oats with banana and peanut butter", "Calories": 400 },
+        "Lunch": { "Meal": "Paneer curry with rice", "Calories": 600 },
+        "Dinner": { "Meal": "Dal khichdi with curd", "Calories": 500 }
+      },
+      "Day 7": {
+        "Breakfast": { "Meal": "Vegetable sandwich with milk", "Calories": 350 },
+        "Lunch": { "Meal": "Roti with mixed vegetables", "Calories": 500 },
+        "Dinner": { "Meal": "Grilled tofu with salad", "Calories": 450 }
+      }
+    },
+    "Maintenance": {
+      "Day 1": {
+        "Breakfast": { "Meal": "Vegetable sandwich with milk", "Calories": 350 },
+        "Lunch": { "Meal": "Roti with mixed vegetables", "Calories": 500 },
+        "Dinner": { "Meal": "Grilled tofu with salad", "Calories": 450 }
+      },
+      "Day 2": {
+        "Breakfast": { "Meal": "Fruit bowl with green tea", "Calories": 300 },
+        "Lunch": { "Meal": "Roti with mixed vegetables", "Calories": 500 },
+        "Dinner": { "Meal": "Dal khichdi with curd", "Calories": 500 }
+      },
+      "Day 3": {
+        "Breakfast": { "Meal": "Vegetable sandwich with milk", "Calories": 350 },
+        "Lunch": { "Meal": "Quinoa salad with sprouts", "Calories": 400 },
+        "Dinner": { "Meal": "Grilled tofu with salad", "Calories": 450 }
+      },
+      "Day 4": {
+        "Breakfast": { "Meal": "Oats with banana and peanut butter", "Calories": 400 },
+        "Lunch": { "Meal": "Roti with mixed vegetables", "Calories": 500 },
+        "Dinner": { "Meal": "Soup and multigrain roti", "Calories": 350 }
+      },
+      "Day 5": {
+        "Breakfast": { "Meal": "Fruit bowl with green tea", "Calories": 300 },
+        "Lunch": { "Meal": "Paneer curry with rice", "Calories": 600 },
+        "Dinner": { "Meal": "Grilled tofu with salad", "Calories": 450 }
+      },
+      "Day 6": {
+        "Breakfast": { "Meal": "Vegetable sandwich with milk", "Calories": 350 },
+        "Lunch": { "Meal": "Quinoa salad with sprouts", "Calories": 400 },
+        "Dinner": { "Meal": "Dal khichdi with curd", "Calories": 500 }
+      },
+      "Day 7": {
+        "Breakfast": { "Meal": "Oats with banana and peanut butter", "Calories": 400 },
+        "Lunch": { "Meal": "Roti with mixed vegetables", "Calories": 500 },
+        "Dinner": { "Meal": "Soup and multigrain roti", "Calories": 350 }
+      }
+    },
+    "Weight Loss": {
+      "Day 1": {
+        "Breakfast": { "Meal": "Fruit bowl with green tea", "Calories": 150 },
+        "Lunch": { "Meal": "Quinoa salad with sprouts", "Calories": 200 },
+        "Dinner": { "Meal": "Soup and multigrain roti", "Calories": 250 }
+      },
+      "Day 2": {
+        "Breakfast": { "Meal": "Vegetable sandwich with milk", "Calories": 150 },
+        "Lunch": { "Meal": "Quinoa salad with sprouts", "Calories": 200 },
+        "Dinner": { "Meal": "Grilled tofu with salad", "Calories": 250 }
+      },
+      "Day 3": {
+        "Breakfast": { "Meal": "Fruit bowl with green tea", "Calories": 200 },
+        "Lunch": { "Meal": "Roti with mixed vegetables", "Calories": 250 },
+        "Dinner": { "Meal": "Soup and multigrain roti", "Calories": 250 }
+      },
+      "Day 4": {
+        "Breakfast": { "Meal": "Fruit bowl with green tea", "Calories": 200 },
+        "Lunch": { "Meal": "Quinoa salad with sprouts", "Calories": 200 },
+        "Dinner": { "Meal": "Grilled tofu with salad", "Calories": 250 }
+      },
+      "Day 5": {
+        "Breakfast": { "Meal": "Vegetable sandwich with milk", "Calories": 150 },
+        "Lunch": { "Meal": "Roti with mixed vegetables", "Calories": 200 },
+        "Dinner": { "Meal": "Soup and multigrain roti", "Calories": 250 }
+      },
+      "Day 6": {
+        "Breakfast": { "Meal": "Fruit bowl with green tea", "Calories": 150 },
+        "Lunch": { "Meal": "Quinoa salad with sprouts", "Calories": 200 },
+        "Dinner": { "Meal": "Grilled tofu with salad", "Calories": 250 }
+      },
+      "Day 7": {
+        "Breakfast": { "Meal": "Fruit bowl with green tea", "Calories": 200 },
+        "Lunch": { "Meal": "Roti with mixed vegetables", "Calories": 200 },
+        "Dinner": { "Meal": "Soup and multigrain roti", "Calories": 250 }
+      }
+    }
+  },
+  "Non-Veg": {
+    "Bulking": {
+      "Day 1": {
+        "Breakfast": { "Meal": "Eggs and toast with avocado", "Calories": 450 },
+        "Lunch": { "Meal": "Chicken curry with rice", "Calories": 650 },
+        "Dinner": { "Meal": "Fish curry with chapati", "Calories": 550 }
+      },
+      "Day 2": {
+        "Breakfast": { "Meal": "Boiled eggs and bread", "Calories": 350 },
+        "Lunch": { "Meal": "Grilled chicken with vegetables", "Calories": 550 },
+        "Dinner": { "Meal": "Chicken soup with salad", "Calories": 450 }
+      },
+      "Day 3": {
+        "Breakfast": { "Meal": "Eggs and toast with avocado", "Calories": 450 },
+        "Lunch": { "Meal": "Chicken curry with rice", "Calories": 650 },
+        "Dinner": { "Meal": "Fish curry with chapati", "Calories": 550 }
+      },
+      "Day 4": {
+        "Breakfast": { "Meal": "Boiled eggs and bread", "Calories": 350 },
+        "Lunch": { "Meal": "Grilled chicken with vegetables", "Calories": 550 },
+        "Dinner": { "Meal": "Chicken soup with salad", "Calories": 450 }
+      },
+      "Day 5": {
+        "Breakfast": { "Meal": "Eggs and toast with avocado", "Calories": 450 },
+        "Lunch": { "Meal": "Chicken curry with rice", "Calories": 650 },
+        "Dinner": { "Meal": "Fish curry with chapati", "Calories": 550 }
+      },
+      "Day 6": {
+        "Breakfast": { "Meal": "Boiled eggs and bread", "Calories": 350 },
+        "Lunch": { "Meal": "Grilled chicken with vegetables", "Calories": 550 },
+        "Dinner": { "Meal": "Chicken soup with salad", "Calories": 450 }
+      },
+      "Day 7": {
+        "Breakfast": { "Meal": "Eggs and toast with avocado", "Calories": 450 },
+        "Lunch": { "Meal": "Chicken curry with rice", "Calories": 650 },
+        "Dinner": { "Meal": "Fish curry with chapati", "Calories": 550 }
+      }
+    },
+    "Maintenance": {
+      "Day 1": {
+        "Breakfast": { "Meal": "Boiled eggs and bread", "Calories": 350 },
+        "Lunch": { "Meal": "Grilled chicken with vegetables", "Calories": 550 },
+        "Dinner": { "Meal": "Chicken soup with salad", "Calories": 450 }
+      },
+      "Day 2": {
+        "Breakfast": { "Meal": "Scrambled eggs with green tea", "Calories": 300 },
+        "Lunch": { "Meal": "Grilled fish and veggies", "Calories": 450 },
+        "Dinner": { "Meal": "Chicken stew and steamed broccoli", "Calories": 350 }
+      },
+      "Day 3": {
+        "Breakfast": { "Meal": "Eggs and toast with avocado", "Calories": 450 },
+        "Lunch": { "Meal": "Grilled chicken with vegetables", "Calories": 550 },
+        "Dinner": { "Meal": "Chicken soup with salad", "Calories": 450 }
+      },
+      "Day 4": {
+        "Breakfast": { "Meal": "Boiled eggs and bread", "Calories": 350 },
+        "Lunch": { "Meal": "Grilled fish and veggies", "Calories": 450 },
+        "Dinner": { "Meal": "Chicken stew and steamed broccoli", "Calories": 350 }
+      },
+      "Day 5": {
+        "Breakfast": { "Meal": "Scrambled eggs with green tea", "Calories": 300 },
+        "Lunch": { "Meal": "Grilled chicken with vegetables", "Calories": 550 },
+        "Dinner": { "Meal": "Chicken soup with salad", "Calories": 450 }
+      },
+      "Day 6": {
+        "Breakfast": { "Meal": "Eggs and toast with avocado", "Calories": 450 },
+        "Lunch": { "Meal": "Grilled fish and veggies", "Calories": 450 },
+        "Dinner": { "Meal": "Chicken stew and steamed broccoli", "Calories": 350 }
+      },
+      "Day 7": {
+        "Breakfast": { "Meal": "Boiled eggs and bread", "Calories": 350 },
+        "Lunch": { "Meal": "Grilled chicken with vegetables", "Calories": 550 },
+        "Dinner": { "Meal": "Chicken soup with salad", "Calories": 450 }
+      }
+    },
+    "Weight Loss": {
+      "Day 1": {
+        "Breakfast": { "Meal": "Scrambled eggs with green tea", "Calories": 200 },
+        "Lunch": { "Meal": "Grilled fish and veggies", "Calories": 250 },
+        "Dinner": { "Meal": "Chicken stew and steamed broccoli", "Calories": 250 }
+      },
+      "Day 2": {
+        "Breakfast": { "Meal": "Boiled eggs and bread", "Calories": 250 },
+        "Lunch": { "Meal": "Grilled chicken with vegetables", "Calories": 250 },
+        "Dinner": { "Meal": "Chicken soup with salad", "Calories": 250 }
+      },
+      "Day 3": {
+        "Breakfast": { "Meal": "Scrambled eggs with green tea", "Calories": 200 },
+        "Lunch": { "Meal": "Grilled fish and veggies", "Calories": 250 },
+        "Dinner": { "Meal": "Chicken stew and steamed broccoli", "Calories": 250 }
+      },
+      "Day 4": {
+        "Breakfast": { "Meal": "Boiled eggs and bread", "Calories": 250 },
+        "Lunch": { "Meal": "Grilled chicken with vegetables", "Calories": 250 },
+        "Dinner": { "Meal": "Chicken soup with salad", "Calories": 250 }
+      },
+      "Day 5": {
+        "Breakfast": { "Meal": "Scrambled eggs with green tea", "Calories": 200 },
+        "Lunch": { "Meal": "Grilled fish and veggies", "Calories": 250 },
+        "Dinner": { "Meal": "Chicken stew and steamed broccoli", "Calories": 250 }
+      },
+      "Day 6": {
+        "Breakfast": { "Meal": "Boiled eggs and bread", "Calories": 250 },
+        "Lunch": { "Meal": "Grilled chicken with vegetables", "Calories": 250 },
+        "Dinner": { "Meal": "Chicken soup with salad", "Calories": 250 }
+      },
+      "Day 7": {
+        "Breakfast": { "Meal": "Scrambled eggs with green tea", "Calories": 200 },
+        "Lunch": { "Meal": "Grilled fish and veggies", "Calories": 250 },
+        "Dinner": { "Meal": "Chicken stew and steamed broccoli", "Calories": 250 }
+      }
+    }
+  }
+}

@@ -1,0 +1,222 @@
+{
+    "InternationalDishes": {
+      "Sushi": {
+        "Origin": "Japan",
+        "Description": "Sushi dates back to the 8th century in Japan, originating from the process of preserving fish in fermented rice. Over time, it evolved into the fresh, vinegared rice delicacy we know today.",
+        "Recipe": "Ingredients: Sushi rice, nori (seaweed), fresh fish, soy sauce, wasabi, vinegar. Steps: 1) Cook sushi rice and mix with vinegar. 2) Place nori on a bamboo mat, spread rice, and add fish. 3) Roll tightly and slice into pieces."
+      },
+      "Pizza": {
+        "Origin": "Italy",
+        "Description": "Pizza was first created in Naples, Italy, in the 18th century as a simple flatbread with tomatoes, cheese, and herbs. It became globally popular after Italian immigrants introduced it to the world.",
+        "Recipe": "Ingredients: Pizza dough, tomato sauce, mozzarella cheese, basil, olive oil. Steps: 1) Roll out the dough. 2) Spread tomato sauce and sprinkle cheese. 3) Bake at 220°C for 15 minutes, garnish with basil."
+      },
+      "Shawarma": {
+        "Origin": "Middle East (Turkey/Levant)",
+        "Description": "Shawarma originated in the Ottoman Empire, where seasoned meat was stacked on a vertical spit and slowly roasted. It became popular worldwide as a street food with pita, sauces, and vegetables.",
+        "Recipe": "Ingredients: Chicken/beef, yogurt, garlic, lemon juice, spices, pita bread, tahini sauce. Steps: 1) Marinate meat with yogurt and spices. 2) Roast on a vertical spit or pan-fry. 3) Slice and serve in pita with sauce and veggies."
+      },
+      "Lasagna": {
+        "Origin": "Italy",
+        "Description": "Lasagna originated in Italy, with early versions dating back to Ancient Rome. The modern dish, layered with pasta, cheese, and tomato sauce, became popular in the Middle Ages.",
+        "Recipe": "Ingredients: Lasagna sheets, ground beef, tomato sauce, ricotta cheese, mozzarella, parmesan. Steps: 1) Cook ground beef with tomato sauce. 2) Layer pasta sheets with meat sauce and cheese. 3) Bake at 180°C for 40 minutes."
+      },
+      "Tacos": {
+        "Origin": "Mexico",
+        "Description": "Tacos have been a staple in Mexican cuisine for centuries, originating from ancient Aztec traditions. They were initially simple corn tortillas filled with fish or meat.",
+        "Recipe": "Ingredients: Corn tortillas, beef/chicken, onions, cilantro, lime. Steps: 1) Grill the meat with spices. 2) Warm tortillas and fill with meat. 3) Top with onions, cilantro, and a squeeze of lime."
+      },
+      "Croissant": {
+        "Origin": "France",
+        "Description": "The croissant's origins trace back to Austria’s ‘kipferl’ pastry, but it was perfected in France using flaky, buttery layers, making it a signature breakfast item.",
+        "Recipe": "Ingredients: Flour, butter, sugar, yeast, milk. Steps: 1) Make and roll out dough, layer with butter. 2) Fold and chill multiple times. 3) Shape into crescents and bake until golden."
+      },
+      "Paella": {
+        "Origin": "Spain",
+        "Description": "Paella originated in Valencia, Spain, as a farmer’s dish combining rice, saffron, vegetables, and proteins like seafood or chicken, cooked in a large pan.",
+        "Recipe": "Ingredients: Rice, saffron, seafood/chicken, bell peppers, onions. Steps: 1) Sauté onions and peppers. 2) Add rice, broth, and saffron. 3) Mix in seafood or chicken and cook until tender."
+      },
+      "Biryani": {
+        "Origin": "India",
+        "Description": "Biryani originated from Persian and Mughal influences, combining fragrant basmati rice with spices, meats, and saffron, becoming a festive dish across India.",
+        "Recipe": "Ingredients: Basmati rice, chicken/mutton, onions, tomatoes, saffron, yogurt, spices. Steps: 1) Marinate meat with yogurt and spices. 2) Layer rice and meat, cook on low flame for 30 minutes."
+      },
+      "Pad Thai": {
+        "Origin": "Thailand",
+        "Description": "Pad Thai was popularized in the 1930s by the Thai government as a national dish, combining stir-fried rice noodles with shrimp, tofu, and tamarind sauce.",
+        "Recipe": "Ingredients: Rice noodles, shrimp, tofu, egg, tamarind sauce, peanuts. Steps: 1) Stir-fry noodles with tamarind sauce. 2) Add shrimp, tofu, and scrambled eggs. 3) Garnish with peanuts and lime."
+      },
+      "Kimchi": {
+        "Origin": "Korea",
+        "Description": "Kimchi, a staple of Korean cuisine, dates back over 3,000 years. It was created as a fermented vegetable dish to preserve food for the harsh winters.",
+        "Recipe": "Ingredients: Napa cabbage, radish, garlic, ginger, chili powder, fish sauce. Steps: 1) Salt the cabbage and let it sit. 2) Mix with spices and ferment for a week."
+      },
+      "Moussaka": {
+        "Origin": "Greece",
+        "Description": "Moussaka is a layered eggplant and meat dish, influenced by Arabic and Ottoman cuisines, and became a Greek favorite in the 20th century.",
+        "Recipe": "Ingredients: Eggplant, minced lamb, tomatoes, onions, béchamel sauce. Steps: 1) Fry eggplant slices. 2) Cook lamb with tomatoes. 3) Layer and bake with béchamel sauce."
+      },
+      "Pho": {
+        "Origin": "Vietnam",
+        "Description": "Pho, a Vietnamese noodle soup, was developed in the early 20th century, influenced by French and Chinese culinary traditions, with beef broth, rice noodles, and herbs.",
+        "Recipe": "Ingredients: Beef broth, rice noodles, beef slices, onion, ginger, basil. Steps: 1) Simmer broth with spices. 2) Cook noodles and add beef slices. 3) Garnish with basil and lime."
+      },
+      "Ceviche": {
+        "Origin": "Peru",
+        "Description": "Ceviche, a dish of raw fish cured in citrus juices, originated in Peru over 2,000 years ago with indigenous coastal cultures using local seafood and lime.",
+        "Recipe": "Ingredients: Fresh fish, lime juice, red onion, cilantro, chili peppers. Steps: 1) Cut fish into cubes and marinate in lime juice for 15 minutes. 2) Mix with onions, cilantro, and chili."
+      },
+      "Mandi": {
+      "Origin": "Yemen",
+      "Description": "Mandi is a traditional Yemeni dish, believed to have originated in Hadhramaut. It consists of slow-cooked meat (usually lamb or chicken) served with fragrant spiced rice, often cooked in an underground pit for an authentic smoky flavor.",
+      "Recipe": "Ingredients: Basmati rice, lamb/chicken, saffron, cardamom, cloves, cinnamon, bay leaves, tomatoes, onions. Steps: 1) Marinate meat with spices and slow-cook until tender. 2) Cook rice with spices and broth. 3) Serve meat over rice, garnished with nuts and raisins."
+      },
+      "Bobotie": {
+        "Origin": "South Africa",
+        "Description": "Bobotie is a traditional South African dish made with spiced minced meat baked with an egg-based topping. It originated with Cape Malay communities in the 17th century.",
+        "Recipe": "Ingredients: Ground beef, bread, milk, onion, curry powder, raisins, eggs. Steps: 1) Soak bread in milk and mix with meat and spices. 2) Bake with an egg topping until set."
+      },
+      "Poutine": {
+        "Origin": "Canada",
+        "Description": "Poutine is a Québécois dish made of fries topped with cheese curds and brown gravy. It emerged in the 1950s and has since become a Canadian comfort food icon.",
+        "Recipe": "Ingredients: French fries, cheese curds, brown gravy. Steps: 1) Fry potatoes until crispy. 2) Add cheese curds. 3) Pour hot gravy over the top."
+      },
+      "Jollof Rice": {
+        "Origin": "West Africa (Nigeria/Senegal)",
+        "Description": "Jollof rice is a beloved West African dish made with tomatoes, onions, and spices. Variations exist across countries, sparking debates over whose version is best.",
+        "Recipe": "Ingredients: Rice, tomatoes, onions, bell peppers, oil, spices. Steps: 1) Blend and cook tomato mixture. 2) Add rice and broth. 3) Simmer until rice is cooked."
+      },
+      "Feijoada": {
+        "Origin": "Brazil",
+        "Description": "Feijoada is a rich stew of black beans and pork, traditionally served with rice and orange slices. It was inspired by Portuguese dishes and adapted by Brazilian culture.",
+        "Recipe": "Ingredients: Black beans, pork cuts, sausage, onions, garlic. Steps: 1) Cook beans and meat slowly. 2) Add sautéed onions and garlic. 3) Serve with rice and greens."
+      },
+      "Pierogi": {
+        "Origin": "Poland",
+        "Description": "Pierogi are filled dumplings, typically stuffed with potato, cheese, or meat. They are boiled and then sometimes pan-fried for a crispy finish.",
+        "Recipe": "Ingredients: Flour, eggs, potatoes, cheese. Steps: 1) Prepare dough and filling. 2) Stuff and shape dumplings. 3) Boil, then optionally fry."
+      },
+      "Baklava": {
+        "Origin": "Turkey/Greece",
+        "Description": "Baklava is a layered pastry dessert made of filo dough, nuts, and honey or syrup. Its history spans the Ottoman Empire and Byzantine times.",
+        "Recipe": "Ingredients: Filo pastry, walnuts/pistachios, butter, sugar syrup. Steps: 1) Layer filo with nuts and butter. 2) Bake and soak in syrup."
+      },
+      "Kebab": {
+        "Origin": "Middle East",
+        "Description": "Kebabs consist of skewered and grilled meat, with variations like shish kebab or doner kebab. It has roots in Persian and Turkish cooking.",
+        "Recipe": "Ingredients: Lamb/chicken, spices, onions, yogurt. Steps: 1) Marinate meat. 2) Skewer and grill. 3) Serve with salad or bread."
+      },
+      "Churrasco": {
+        "Origin": "Brazil/Argentina",
+        "Description": "Churrasco is a South American barbecue style where various cuts of meat are grilled, often on skewers, and served with chimichurri sauce.",
+        "Recipe": "Ingredients: Beef cuts, garlic, vinegar, chimichurri. Steps: 1) Season and grill meat. 2) Serve with chimichurri sauce."
+      },
+      "Butter Chicken": {
+        "Origin": "India",
+        "Description": "Butter Chicken, or 'Murgh Makhani', was created in Delhi in the 1950s by chefs at the Moti Mahal restaurant. It blends tender chicken with a creamy tomato-based sauce.",
+        "Recipe": "Ingredients: Chicken, tomato puree, cream, butter, garlic, ginger, spices. Steps: 1) Marinate chicken with spices and yogurt. 2) Grill or pan-fry. 3) Cook tomato sauce with cream and butter, then add chicken."
+      },
+  
+      "Ratatouille": {
+        "Origin": "France",
+        "Description": "Ratatouille is a traditional Provençal vegetable stew from Nice, France. It became globally known as a rustic yet elegant dish of layered vegetables.",
+        "Recipe": "Ingredients: Zucchini, eggplant, tomatoes, bell peppers, onion, herbs. Steps: 1) Slice vegetables thinly. 2) Sauté onions and garlic, layer veggies in a pan. 3) Bake until tender."
+      },
+  
+      "Rogan Josh": {
+        "Origin": "India (Kashmir)",
+        "Description": "Rogan Josh is a rich and aromatic lamb curry from Kashmir, influenced by Persian cuisine. It’s known for its deep red color and fragrant spices.",
+        "Recipe": "Ingredients: Lamb, yogurt, Kashmiri chili, garlic, ginger, spices. Steps: 1) Sauté spices and onions. 2) Add marinated lamb and cook slowly with yogurt until tender."
+      },
+  
+      "Goulash": {
+        "Origin": "Hungary",
+        "Description": "Goulash is a hearty Hungarian stew made with meat, vegetables, and paprika. It has been a national dish since the 9th century.",
+        "Recipe": "Ingredients: Beef, onions, paprika, potatoes, carrots. Steps: 1) Sauté onions and add beef. 2) Stir in paprika and simmer with vegetables until tender."
+      },
+  
+      "Chole Bhature": {
+        "Origin": "India (Punjab)",
+        "Description": "Chole Bhature is a popular North Indian dish combining spicy chickpeas (chole) with deep-fried bread (bhature). It’s a beloved street food and comfort meal.",
+        "Recipe": "Ingredients: Chickpeas, onions, tomatoes, spices, flour, yogurt. Steps: 1) Cook chickpeas with onion-tomato gravy. 2) Make dough with flour and yogurt, roll and fry into bhature."
+      },
+  
+      "Bibimbap": {
+        "Origin": "Korea",
+        "Description": "Bibimbap is a Korean mixed rice dish with assorted vegetables, meat, egg, and gochujang (chili paste). Traditionally served in a hot stone bowl.",
+        "Recipe": "Ingredients: Rice, beef, vegetables, egg, gochujang. Steps: 1) Cook rice and vegetables separately. 2) Fry egg. 3) Assemble everything over rice and top with gochujang."
+      },
+  
+      "Dosa": {
+        "Origin": "India (South)",
+        "Description": "Dosa is a crispy fermented rice and lentil crepe from South India, usually served with coconut chutney and sambar.",
+        "Recipe": "Ingredients: Rice, urad dal, salt, oil. Steps: 1) Soak and grind rice and dal. 2) Ferment overnight. 3) Spread batter on hot griddle and cook till golden."
+      },
+  
+      "Falafel": {
+        "Origin": "Middle East",
+        "Description": "Falafel is a deep-fried ball made from ground chickpeas or fava beans, seasoned with herbs and spices. It’s a common street food across the Middle East.",
+        "Recipe": "Ingredients: Chickpeas, onion, garlic, parsley, cumin. Steps: 1) Blend all ingredients into a coarse mix. 2) Form balls and deep-fry till crispy."
+      },
+  
+      "Pav Bhaji": {
+        "Origin": "India (Mumbai)",
+        "Description": "Pav Bhaji originated as a quick lunch option for mill workers in Mumbai. It's a spicy mashed vegetable curry served with buttered bread rolls.",
+        "Recipe": "Ingredients: Potatoes, peas, tomatoes, onions, pav, butter, spices. Steps: 1) Cook and mash vegetables with spices. 2) Toast pav with butter. 3) Serve hot with lemon and onions."
+      } ,
+
+      "Wiener Schnitzel": {
+        "Origin": "Austria",
+        "Description": "Wiener Schnitzel is a traditional Austrian dish made from thin breaded and fried veal cutlets. It’s crispy, golden, and typically served with lemon.",
+        "Recipe": "Ingredients: Veal, flour, egg, breadcrumbs, oil. Steps: 1) Pound veal thin. 2) Dredge in flour, egg, then breadcrumbs. 3) Shallow fry till golden."
+      },
+  
+      "Borscht": {
+        "Origin": "Ukraine",
+        "Description": "Borscht is a vibrant beet soup, popular in Eastern Europe, often served with sour cream. It’s both sweet and tangy with a deep red hue.",
+        "Recipe": "Ingredients: Beets, cabbage, potatoes, onion, garlic, dill. Steps: 1) Sauté onions and garlic. 2) Add vegetables and broth. 3) Simmer, then serve with sour cream."
+      },
+  
+      "Coq au Vin": {
+        "Origin": "France",
+        "Description": "Coq au Vin is a rustic French dish where chicken is braised with wine, mushrooms, onions, and bacon. It originated as a peasant’s meal.",
+        "Recipe": "Ingredients: Chicken, red wine, mushrooms, pearl onions, bacon. Steps: 1) Sear chicken and bacon. 2) Add wine and aromatics. 3) Simmer until tender and saucy."
+      },
+  
+      "Spaghetti Carbonara": {
+        "Origin": "Italy (Rome)",
+        "Description": "Carbonara is a creamy pasta dish from Rome, made with eggs, Pecorino Romano, black pepper, and guanciale. It’s rich and flavorful without using cream.",
+        "Recipe": "Ingredients: Spaghetti, eggs, guanciale, Pecorino Romano, black pepper. Steps: 1) Fry guanciale. 2) Mix eggs and cheese. 3) Combine with hot pasta and stir quickly to form a sauce."
+      }, "Shepherd’s Pie": {
+      "Origin": "United Kingdom (England)",
+      "Description": "Shepherd’s Pie is a British classic made with minced lamb and vegetables, topped with creamy mashed potatoes and baked until golden.",
+      "Recipe": "Ingredients: Minced lamb, onion, carrot, peas, mashed potatoes. Steps: 1) Cook lamb with veggies. 2) Layer in dish and top with mash. 3) Bake until browned."
+    },
+
+    "Bratwurst with Sauerkraut": {
+      "Origin": "Germany",
+      "Description": "Bratwurst is a German sausage made from pork or veal, often served with tangy sauerkraut and mustard in a bun or with potatoes.",
+      "Recipe": "Ingredients: Bratwurst, sauerkraut, onions, mustard. Steps: 1) Grill or fry sausages. 2) Heat sauerkraut with onions. 3) Serve together with bread or potatoes."
+    }, 
+    "Peking Duck": {
+      "Origin": "China (Beijing)",
+      "Description": "Peking Duck is a famous Chinese dish known for its crispy skin, served with thin pancakes, spring onions, and hoisin sauce.",
+      "Recipe": "Ingredients: Duck, five-spice, soy sauce, pancakes. Steps: 1) Season and air-dry duck. 2) Roast until crispy. 3) Slice and serve with pancakes and sauce."
+    },
+
+    "Dim Sum": {
+      "Origin": "China (Cantonese)",
+      "Description": "Dim Sum is a Chinese meal of small dishes like dumplings, buns, and rolls, traditionally enjoyed with tea.",
+      "Recipe": "Ingredients: Dumpling wrappers, shrimp/pork, soy sauce, sesame oil. Steps: 1) Fill wrappers and fold. 2) Steam or fry. 3) Serve with dipping sauce."
+    }, "Okonomiyaki": {
+      "Origin": "Japan (Osaka/Hiroshima)",
+      "Description": "Okonomiyaki is a savory Japanese pancake filled with cabbage, seafood or meat, and topped with mayo and sauce.",
+      "Recipe": "Ingredients: Cabbage, flour, eggs, pork belly, okonomiyaki sauce. Steps: 1) Mix batter with ingredients. 2) Pan-fry. 3) Add sauces and toppings."
+    },
+
+    "Mapo Tofu": {
+      "Origin": "China (Sichuan)",
+      "Description": "Mapo Tofu is a spicy Chinese dish featuring soft tofu and minced pork in a bold chili and Sichuan peppercorn sauce.",
+      "Recipe": "Ingredients: Tofu, ground pork, doubanjiang (chili bean paste), garlic, Sichuan pepper. Steps: 1) Sauté pork. 2) Add sauces and tofu. 3) Simmer and serve with rice."
+    }
+    }
+}

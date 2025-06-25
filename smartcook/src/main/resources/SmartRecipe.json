@@ -1,0 +1,1127 @@
+{
+  "main": {
+    "paneer": [
+      {
+        "dishName": "Paneer Tikka",
+        "addOns": [
+          "capsicum",
+          "onion",
+          "tomato"
+        ],
+        "image": "https://www.cookwithmanali.com/wp-content/uploads/2015/07/Restaurant-Style-Recipe-Paneer-Tikka-500x500.jpg",
+        "steps": [
+          "Cut paneer and vegetables into cubes.",
+          "Marinate with yogurt, spices, and lemon juice for 30 mins.",
+          "Skewer paneer and veggies alternately.",
+          "Grill or bake until slightly charred.",
+          "Serve hot with mint chutney."
+        ]
+      },
+      {
+        "dishName": "Paneer Butter Masala",
+        "addOns": [
+          "butter",
+          "cream",
+          "tomato",
+          "kasuri methi"
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2014/11/paneer-butter-masala-recipe-2.jpg",
+        "steps": [
+          "Sauté onions and tomatoes, blend to a paste.",
+          "Cook with butter, cream, and spices.",
+          "Add paneer cubes and simmer.",
+          "Garnish with coriander and serve with naan."
+        ]
+      },
+      {
+        "dishName": "Chilli Paneer",
+        "addOns": [
+          "capsicum",
+          "soy sauce",
+          "green chili"
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/02/chilli-paneer-recipe.jpg",
+        "steps": [
+          "Fry paneer cubes until golden.",
+          "Stir-fry with veggies, soy sauce, and chili sauce.",
+          "Add spices and toss well.",
+          "Serve hot as appetizer or with rice."
+        ]
+      },
+      {
+        "dishName": "Palak Paneer",
+        "addOns": [
+          "spinach",
+          "garlic",
+          "cream"
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/06/palak-paneer-recipe-500x375.jpg",
+        "steps": [
+          "Blanch and puree spinach.",
+          "Sauté garlic and add puree with spices.",
+          "Add paneer cubes and simmer.",
+          "Finish with cream and serve."
+        ]
+      },
+      {
+        "dishName": "Paneer Bhurji",
+        "addOns": [
+          "onion",
+          "tomato",
+          "green chili"
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/06/paneer-bhurji-recipe.jpg",
+        "steps": [
+          "Crumble paneer.",
+          "Sauté onion, tomato, and spices.",
+          "Add paneer and cook for a few mins.",
+          "Serve hot with paratha or toast."
+        ]
+      }
+    ],
+    "chicken": [
+      {
+        "dishName": "Lemon Garlic Chicken",
+        "addOns": [
+          "garlic",
+          "ginger",
+          "lemon"
+        ],
+        "image": "https://www.allrecipes.com/thmb/U7N2mLx9q3bbyul2yrs6xW2a9ps=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/ALR-240993-lemon-garlic-chicken-VAT-4x3-4c73ee96b2b04fafa108fa7579185c87.jpg",
+        "steps": [
+          "Marinate chicken with lemon juice, garlic, and ginger paste.",
+          "Let it rest for 1 hour in the fridge.",
+          "Heat oil and sear the chicken on both sides.",
+          "Cover and cook until fully done.",
+          "Garnish with fresh herbs and serve."
+        ]
+      },
+      {
+        "dishName": "Butter Chicken",
+        "addOns": [
+          "butter",
+          "cream",
+          "tomato",
+          "garam masala"
+        ],
+        "image": "https://www.shemins.com/wp-content/uploads/2017/05/Shemins-Butter-Chicken-LR.jpg",
+        "steps": [
+          "Grill marinated chicken pieces.",
+          "Make a creamy tomato-based sauce with butter and spices.",
+          "Add chicken pieces to sauce and simmer.",
+          "Finish with cream and serve hot."
+        ]
+      },
+      {
+        "dishName": "Chicken Masala",
+        "addOns": [
+          "onion",
+          "tomato",
+          "garlic",
+          "ginger"
+        ],
+        "image": "https://www.healthyandtastyfoods.com/wp-content/uploads/2022/06/GrChicken-Masala-Curryoup-1.jpg",
+        "steps": [
+          "Fry chopped onions until golden brown.",
+          "Add ginger-garlic paste, tomatoes, and spices.",
+          "Cook until oil separates.",
+          "Add chicken and cook till tender.",
+          "Garnish and serve with rice or roti."
+        ]
+      },
+      {
+        "dishName": "Chicken Curry",
+        "addOns": [
+          "coconut",
+          "onion",
+          "spices"
+        ],
+        "image": "https://www.whiskaffair.com/wp-content/uploads/2021/10/Andhra-Chicken-Curry-2-3.jpg",
+        "steps": [
+          "Make a base with onions, spices, and coconut paste.",
+          "Add chicken and cook until tender.",
+          "Add water for gravy and simmer.",
+          "Serve with rice."
+        ]
+      }
+    ],
+    "egg": [
+      {
+        "dishName": "Boiled Egg Curry",
+        "addOns": [
+          "onion",
+          "tomato",
+          "garam masala"
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/04/egg-curry-recipe.jpg",
+        "steps": [
+          "Boil eggs, peel and keep aside.",
+          "Sauté onions and tomatoes with spices.",
+          "Add eggs, simmer in gravy for 10 mins.",
+          "Garnish and serve with rice."
+        ]
+      },
+      {
+        "dishName": "Egg Bhurji",
+        "addOns": [
+          "onion",
+          "tomato",
+          "green chili"
+        ],
+        "image": "https://www.ruchifoodline.com/recipes//cdn/recipes/Egg-Bhurji-1-3.jpg",
+        "steps": [
+          "Heat oil and sauté onions and green chilies.",
+          "Add tomatoes and cook till soft.",
+          "Add beaten eggs and stir continuously.",
+          "Cook until dry and serve hot."
+        ]
+      },
+      {
+        "dishName": "Egg Curry with Coconut",
+        "addOns": [
+          "coconut milk",
+          "mustard seeds",
+          "onion"
+        ],
+        "image": "https://www.alittlebitofspice.com/wp-content/uploads/2016/08/kerala-egg-curry-with-coconut-milk-nadan-mutta-curry.1024x1024-11.jpg",
+        "steps": [
+          "Boil eggs and keep aside.",
+          "Sauté mustard seeds, onions and spices.",
+          "Add coconut milk and simmer.",
+          "Add eggs and cook for 5 mins."
+        ]
+      },
+      {
+        "dishName": "Egg Fried Rice",
+        "addOns": [
+          "rice",
+          "soy sauce",
+          "carrot",
+          "peas"
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/egg-fried-rice-recipe.jpg",
+        "steps": [
+          "Scramble eggs and keep aside.",
+          "Sauté veggies and add cooked rice.",
+          "Add soy sauce and scrambled eggs.",
+          "Stir-fry and serve hot."
+        ]
+      },
+      {
+        "dishName": "Egg Paratha",
+        "addOns": [
+          "egg",
+          "onion",
+          "spices"
+        ],
+        "image": "https://i.pinimg.com/736x/82/b6/23/82b623456dc458c77f0d9f9c865eaf34.jpg",
+        "steps": [
+          "Prepare dough and roll into a paratha.",
+          "Crack an egg on half-cooked paratha.",
+          "Add onions, spices and cook both sides.",
+          "Serve with chutney."
+        ]
+      }
+    ],
+    "potato": [
+      {
+        "dishName": "Aloo Gobi",
+        "addOns": [
+          "cauliflower",
+          "potato",
+          "spices"
+        ],
+        "image": "https://shwetainthekitchen.com/wp-content/uploads/2024/01/aloo-gobi.jpg",
+        "steps": [
+          "Chop potato and gobi.",
+          "Sauté in oil with turmeric, chili, and cumin.",
+          "Cover and cook till soft.",
+          "Garnish with coriander and serve."
+        ]
+      },
+      {
+        "dishName": "Aloo Paratha",
+        "addOns": [
+          "boiled potato",
+          "coriander",
+          "green chili"
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/08/aloo-paratha-recipe-500x500.jpg",
+        "steps": [
+          "Mash boiled potato with spices.",
+          "Stuff into dough and roll.",
+          "Cook on tawa with ghee.",
+          "Serve with curd or pickle."
+        ]
+      },
+      {
+        "dishName": "Jeera Aloo",
+        "addOns": [
+          "cumin",
+          "boiled potato",
+          "green chili"
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/04/jeera-aloo-recipe.jpg",
+        "steps": [
+          "Heat oil and add cumin seeds.",
+          "Add boiled potatoes and spices.",
+          "Sauté till golden.",
+          "Serve with roti."
+        ]
+      },
+      {
+        "dishName": "Dum Aloo",
+        "addOns": [
+          "baby potatoes",
+          "tomato",
+          "cream"
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/08/dum-aloo-recipe.jpg",
+        "steps": [
+          "Fry baby potatoes and keep aside.",
+          "Prepare creamy tomato gravy.",
+          "Add potatoes and simmer.",
+          "Garnish with coriander."
+        ]
+      },
+      {
+        "dishName": "Potato Wedges",
+        "addOns": [
+          "potato",
+          "oregano",
+          "chili flakes"
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/10/potato-wedges-recipe-500x500.jpg",
+        "steps": [
+          "Cut potatoes into wedges.",
+          "Toss in oil and spices.",
+          "Bake until crisp.",
+          "Serve with dip."
+        ]
+      }
+    ],
+    "grain": [
+      {
+        "dishName": "Steamed Rice",
+        "addOns": [
+          "rice",
+          "salt",
+          "water"
+        ],
+        "image": "https://assets.epicurious.com/photos/57d70c8ade27564257b657c6/master/pass/perfect-steamed-rice.jpg",
+        "steps": [
+          "Wash rice thoroughly.",
+          "Boil water and add rice and salt.",
+          "Cook until rice is soft.",
+          "Drain and serve."
+        ]
+      },
+      {
+        "dishName": "Jeera Rice",
+        "addOns": [
+          "cumin",
+          "rice",
+          "ghee"
+        ],
+        "image": "https://myfoodstory.com/wp-content/uploads/2018/07/Perfect-Jeera-Rice-Indian-Cumin-Rice-4.jpg",
+        "steps": [
+          "Heat ghee, add cumin.",
+          "Add cooked rice and mix well.",
+          "Cook for 2-3 mins.",
+          "Serve with dal or curry."
+        ]
+      },
+      {
+        "dishName": "Veg Pulao",
+        "addOns": [
+          "rice",
+          "carrot",
+          "peas",
+          "beans"
+        ],
+        "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2019/11/Veg-Pulao-2-500x500.jpg",
+        "steps": [
+          "Sauté veggies with whole spices.",
+          "Add rice and water.",
+          "Cook till done.",
+          "Serve with raita."
+        ]
+      },
+      {
+        "dishName": "Chicken Biryani",
+        "addOns": [
+          "chicken",
+          "rice",
+          "yogurt",
+          "spices"
+        ],
+        "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/07/Chicken-Biryani-Recipe.jpg",
+        "steps": [
+          "Marinate chicken and cook with spices.",
+          "Layer with partially cooked rice.",
+          "Seal and cook on dum.",
+          "Serve with raita."
+        ]
+      },
+      {
+        "dishName": "Fried Rice",
+        "addOns": [
+          "boiled rice",
+          "veggies",
+          "soy sauce"
+        ],
+        "image": "https://shwetainthekitchen.com/wp-content/uploads/2023/06/veg-fried-rice.jpg",
+        "steps": [
+          "Sauté veggies in oil.",
+          "Add cooked rice and sauces.",
+          "Stir fry and serve hot."
+        ]
+      }
+    ],
+    "dal": [
+      {
+        "dishName": "Dal Tadka",
+        "addOns": [
+          "toor dal",
+          "garlic",
+          "ghee"
+        ],
+        "image": "https://cinnamonsnail.com/wp-content/uploads/2023/04/Arhar-Dal-Feature-1-of-1.jpg",
+        "steps": [
+          "Pressure cook dal with turmeric.",
+          "Prepare tadka with garlic and spices.",
+          "Mix with dal and simmer.",
+          "Serve with rice or roti."
+        ]
+      },
+      {
+        "dishName": "Moong Dal",
+        "addOns": [
+          "moong dal",
+          "cumin",
+          "ghee"
+        ],
+        "image": "https://www.livingsmartandhealthy.com/wp-content/uploads/2022/08/whole-moong-dal1.jpg",
+        "steps": [
+          "Roast moong dal, then cook with water.",
+          "Add cumin tadka.",
+          "Simmer and serve with ghee."
+        ]
+      },
+      {
+        "dishName": "Chana Dal Fry",
+        "addOns": [
+          "chana dal",
+          "onion",
+          "tomato"
+        ],
+        "image": "https://maayeka.com/wp-content/uploads/2012/03/mmayeka-3879.jpg",
+        "steps": [
+          "Cook chana dal until soft.",
+          "Fry onion-tomato masala.",
+          "Add dal and simmer.",
+          "Garnish with coriander."
+        ]
+      },
+      {
+        "dishName": "Masoor Dal",
+        "addOns": [
+          "masoor dal",
+          "onion",
+          "tomato"
+        ],
+        "image": "https://cdn2.foodviva.com/static-content/food-images/daal-kadhi-recipes/masoor-dal/masoor-dal.jpg",
+        "steps": [
+          "Cook masoor dal till soft.",
+          "Add fried onion-tomato tadka.",
+          "Serve hot with rice."
+        ]
+      },
+      {
+        "dishName": "Panchmel Dal",
+        "addOns": [
+          "5 dals mix",
+          "ginger",
+          "ghee"
+        ],
+        "image": "https://cdn3.foodviva.com/static-content/food-images/rajasthani-recipes/panchmel-dal/panchmel-dal.jpg",
+        "steps": [
+          "Mix and cook all 5 dals.",
+          "Add aromatic tadka.",
+          "Serve with rice or roti."
+        ]
+      }
+    ],
+    "wheat": [
+      {
+        "dishName": "Plain Roti",
+        "addOns": [
+          "wheat flour",
+          "water",
+          "salt"
+        ],
+        "image": "https://www.cookwithmanali.com/wp-content/uploads/2020/03/Roti-Recipe-Indian-flatbread.jpg",
+        "steps": [
+          "Knead wheat flour with water.",
+          "Roll into flat discs.",
+          "Cook on tawa till golden spots appear.",
+          "Serve hot."
+        ]
+      },
+      {
+        "dishName": "Missi Roti",
+        "addOns": [
+          "wheat flour",
+          "besan",
+          "onion"
+        ],
+        "image": "https://img-global.cpcdn.com/recipes/9f37646ed0a28ebf/400x400cq70/photo.jpg",
+        "steps": [
+          "Mix wheat flour and besan with spices.",
+          "Knead and roll.",
+          "Cook with ghee on tawa."
+        ]
+      },
+      {
+        "dishName": "Tandoori Roti",
+        "addOns": [
+          "wheat flour",
+          "yogurt",
+          "salt"
+        ],
+        "image": "https://img-global.cpcdn.com/recipes/9f37646ed0a28ebf/400x400cq70/photo.jpg",
+        "steps": [
+          "Knead dough with curd and rest.",
+          "Roll thick and stick to tandoor wall.",
+          "Cook until puffed and charred."
+        ]
+      },
+      {
+        "dishName": "Lachha Paratha",
+        "addOns": [
+          "wheat flour",
+          "ghee",
+          "salt"
+        ],
+        "image": "https://4.bp.blogspot.com/-jADK-6cYveY/UWnr-MZ2pJI/AAAAAAAAIcU/fEPl3fTBsVo/s1600/Lachha+Paratha.02.jpg",
+        "steps": [
+          "Roll dough, apply ghee, fold and repeat.",
+          "Make spirals and roll again.",
+          "Cook with ghee till crisp."
+        ]
+      },
+      {
+        "dishName": "Thepla",
+        "addOns": [
+          "wheat flour",
+          "methi",
+          "spices"
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/08/thepla-recipe-500x500.jpg",
+        "steps": [
+          "Mix all ingredients, knead into dough.",
+          "Roll into thin theplas.",
+          "Cook on tawa and serve."
+        ]
+      }
+    ],
+    "besan": [
+      {
+        "dishName": "Besan Chilla",
+        "addOns": [
+          "besan",
+          "onion",
+          "green chili"
+        ],
+        "image": "https://www.indianveggiedelight.com/wp-content/uploads/2022/12/besan-chilla-recipe-featured.jpg",
+        "steps": [
+          "Make batter with besan and veggies.",
+          "Pour on hot tawa.",
+          "Cook both sides till golden."
+        ]
+      },
+      {
+        "dishName": "Kadhi",
+        "addOns": [
+          "besan",
+          "yogurt",
+          "curry leaves"
+        ],
+        "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2012/01/punjabi-kadhi-pakora-recipe-1.jpg",
+        "steps": [
+          "Whisk besan and curd into batter.",
+          "Simmer with spices and temper.",
+          "Serve with rice."
+        ]
+      },
+      {
+        "dishName": "Besan Ladoo",
+        "addOns": [
+          "besan",
+          "ghee",
+          "sugar"
+        ],
+        "image": "https://madhurasrecipe.com/wp-content/uploads/2023/11/Besan-ladoo-eatured-Image.jpg",
+        "steps": [
+          "Roast besan in ghee.",
+          "Mix with sugar.",
+          "Form ladoos when warm."
+        ]
+      },
+      {
+        "dishName": "Pakora",
+        "addOns": [
+          "besan",
+          "veggies",
+          "spices"
+        ],
+        "image": "https://www.recipetineats.com/tachyon/2021/05/Pakora_1-SQ1.jpg",
+        "steps": [
+          "Make thick batter with besan.",
+          "Dip veggies and deep fry.",
+          "Serve hot with chutney."
+        ]
+      },
+      {
+        "dishName": "Dhokla",
+        "addOns": [
+          "besan",
+          "eno",
+          "mustard seeds"
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Dhokla_on_Gujrart.jpg",
+        "steps": [
+          "Make batter with besan and eno.",
+          "Steam in dish.",
+          "Temper with mustard seeds and serve."
+        ]
+      }
+    ],
+    "flour": [
+      {
+        "dishName": "Poori",
+        "addOns": [
+          "flour",
+          "salt",
+          "oil"
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Fluffy_Poori.JPG/1200px-Fluffy_Poori.JPG",
+        "steps": [
+          "Knead flour into stiff dough.",
+          "Roll small discs.",
+          "Deep fry till puffed."
+        ]
+      },
+      {
+        "dishName": "Bhatura",
+        "addOns": [
+          "flour",
+          "yogurt",
+          "baking soda"
+        ],
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Bhatura.jpg/640px-Bhatura.jpg",
+        "steps": [
+          "Knead flour with curd and rest.",
+          "Roll and deep fry.",
+          "Serve with chole."
+        ]
+      },
+      {
+        "dishName": "Pizza Base",
+        "addOns": [
+          "flour",
+          "yeast",
+          "salt"
+        ],
+        "image": "https://5.imimg.com/data5/SELLER/Default/2023/1/NM/AZ/HJ/139615941/pizza-base-bread-500x500.jpg",
+        "steps": [
+          "Knead flour with yeast mix.",
+          "Let it rise.",
+          "Roll and bake lightly."
+        ]
+      },
+      {
+        "dishName": "Pasta",
+        "addOns": [
+          "flour",
+          "egg",
+          "salt"
+        ],
+        "image": "https://img.freepik.com/free-photo/side-view-penne-pasta-with-tomato-sauce-greens-plate_141793-5043.jpg",
+        "steps": [
+          "Make dough with flour and egg.",
+          "Roll and cut into pasta shapes.",
+          "Boil and use in recipes."
+        ]
+      },
+      {
+        "dishName": "Naan",
+        "addOns": [
+          "flour",
+          "curd",
+          "salt"
+        ],
+        "image": "https://www.thespruceeats.com/thmb/MReCj8olqrCsPaGvikesPJie02U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/naan-leavened-indian-flatbread-1957348-final-08-116a2e523f6e4ee693b1a9655784d9b9.jpg",
+        "steps": [
+          "Knead flour with curd and rest.",
+          "Roll thick, cook in tandoor or pan.",
+          "Serve hot."
+        ]
+      }
+    ],
+    "corn": [
+      {
+        "dishName": "Corn Pakora",
+        "addOns": [
+          "onion",
+          "spices",
+          "flour",
+          "water"
+        ],
+        "image": "https://dinedelicious.in/wp-content/uploads/2021/07/Corn-Pakora-3-500x500.jpg",
+        "steps": [
+          "Mix corn, onion, spices, flour, and water.",
+          "Form batter and drop spoonfuls into hot oil.",
+          "Fry until golden brown.",
+          "Serve hot with chutney."
+        ]
+      },
+      {
+        "dishName": "Sweet Corn Soup",
+        "addOns": [
+          "carrot",
+          "beans",
+          "cornstarch",
+          "pepper"
+        ],
+        "image": "https://greenbowl2soul.com/wp-content/uploads/2023/03/Sweet-corn-soup.jpg",
+        "steps": [
+          "Boil sweet corn, carrot, and beans.",
+          "Add cornstarch slurry and cook until thick.",
+          "Season with salt and pepper.",
+          "Serve warm."
+        ]
+      },
+      {
+        "dishName": "Masala Corn",
+        "addOns": [
+          "butter",
+          "lemon",
+          "chat masala"
+        ],
+        "image": "https://www.spiceupthecurry.com/wp-content/uploads/2012/02/masala-corn-recipe-1.jpg",
+        "steps": [
+          "Boil sweet corn until tender.",
+          "Mix with butter, lemon juice, and spices.",
+          "Serve hot as a snack."
+        ]
+      }
+    ],
+    "spinach": [
+      {
+        "dishName": "Palak Paneer",
+        "addOns": [
+          "garlic",
+          "cream",
+          "spices"
+        ],
+        "image": "https://www.cookwithmanali.com/wp-content/uploads/2019/08/Palak-Paneer-500x500.jpg",
+        "steps": [
+          "Blanch and blend spinach.",
+          "Sauté garlic, add puree and spices.",
+          "Add paneer and simmer.",
+          "Finish with cream."
+        ]
+      },
+      {
+        "dishName": "Spinach Corn Sandwich",
+        "addOns": [
+          "corn",
+          "cheese",
+          "oregano"
+        ],
+        "image": "https://theflavoursofkitchen.com/wp-content/uploads/2017/06/Spinach-Corn-Sandwich-1-scaled.jpg",
+        "steps": [
+          "Sauté spinach and corn.",
+          "Mix with cheese and seasonings.",
+          "Spread between bread slices and grill."
+        ]
+      },
+      {
+        "dishName": "Spinach Dal",
+        "addOns": [
+          "toor dal",
+          "mustard seeds",
+          "garlic"
+        ],
+        "image": "https://www.cookwithmanali.com/wp-content/uploads/2016/02/Homemade-Spinach-Dal.jpg",
+        "steps": [
+          "Cook dal and spinach together.",
+          "Prepare tempering with mustard seeds and garlic.",
+          "Add to dal and simmer for a few minutes."
+        ]
+      }
+    ],
+    "cauliflower": [
+      {
+        "dishName": "Gobi Manchurian",
+        "addOns": [
+          "corn flour",
+          "soy sauce",
+          "spring onion"
+        ],
+        "image": "https://www.sharmispassions.com/wp-content/uploads/2022/02/gobi-manchurian2.jpg",
+        "steps": [
+          "Coat cauliflower florets in batter and fry.",
+          "Prepare Manchurian sauce.",
+          "Toss fried gobi in sauce and serve hot."
+        ]
+      },
+      {
+        "dishName": "Aloo Gobi",
+        "addOns": [
+          "potato",
+          "turmeric",
+          "cumin"
+        ],
+        "image": "https://niksharmacooks.com/wp-content/uploads/2022/11/AlooGobiDSC_5234.jpg",
+        "steps": [
+          "Sauté cumin, add potatoes and cauliflower.",
+          "Add spices and cook covered.",
+          "Serve with roti or rice."
+        ]
+      },
+      {
+        "dishName": "Cauliflower Curry",
+        "addOns": [
+          "tomato",
+          "onion",
+          "spices"
+        ],
+        "image": "https://www.simplyorganic.com/media/wysiwyg/tmp/simply-organic-recipe-chickpea-and-cauliflower-turmeric-curry-900x900.jpg",
+        "steps": [
+          "Fry onion-tomato base with spices.",
+          "Add cauliflower florets and simmer.",
+          "Serve hot."
+        ]
+      }
+    ],
+    "carrot": [
+      {
+        "dishName": "Gajar Halwa",
+        "addOns": [
+          "milk",
+          "ghee",
+          "sugar",
+          "nuts"
+        ],
+        "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/11/gajar-halwa-carrot-halwa.jpg",
+        "steps": [
+          "Sauté grated carrots in ghee.",
+          "Add milk and simmer till soft.",
+          "Add sugar and nuts.",
+          "Cook until thickened."
+        ]
+      },
+      {
+        "dishName": "Carrot Poriyal",
+        "addOns": [
+          "mustard seeds",
+          "coconut",
+          "green chili"
+        ],
+        "image": "https://cdn2.foodviva.com/static-content/food-images/south-indian-recipes/carrot-poriyal/carrot-poriyal.jpg",
+        "steps": [
+          "Sauté mustard seeds and green chili.",
+          "Add grated carrot and cook.",
+          "Finish with coconut."
+        ]
+      },
+      {
+        "dishName": "Carrot Soup",
+        "addOns": [
+          "onion",
+          "garlic",
+          "black pepper"
+        ],
+        "image": "https://www.rachelcooks.com/wp-content/uploads/2022/02/creamy-carrot-soup-2022-1500-5-square.jpg",
+        "steps": [
+          "Sauté onion and garlic.",
+          "Add chopped carrots and cook in water.",
+          "Blend and season with pepper.",
+          "Serve hot."
+        ]
+      }
+    ],
+    "beans": [
+      {
+        "dishName": "Beans Thoran",
+        "addOns": [
+          "mustard seeds",
+          "coconut",
+          "turmeric"
+        ],
+        "image": "https://www.alittlebitofspice.com/wp-content/uploads/2015/08/kerala-style-beans-stir-fry-with-coconut-beans-thoran-recipe.1024x1024.jpg",
+        "steps": [
+          "Sauté mustard seeds and curry leaves.",
+          "Add chopped beans and turmeric.",
+          "Cook and add coconut at the end."
+        ]
+      },
+      {
+        "dishName": "Beans Aloo Sabzi",
+        "addOns": [
+          "potato",
+          "cumin",
+          "spices"
+        ],
+        "image": "https://vegecravings.com/wp-content/uploads/2018/02/Aloo-Beans-Recipe-Step-By-Step-Instructions.jpg",
+        "steps": [
+          "Heat oil, add cumin and chopped vegetables.",
+          "Cook with spices until tender.",
+          "Serve with roti."
+        ]
+      },
+      {
+        "dishName": "Beans Stir Fry",
+        "addOns": [
+          "soy sauce",
+          "garlic",
+          "chili flakes"
+        ],
+        "image": "https://assets.epicurious.com/photos/63b5ba99219501813d153624/1:1/w_2241,h_2241,c_limit/Stir-Fried-String-Bean-With-Tofu-RECIPE.jpg",
+        "steps": [
+          "Blanch beans.",
+          "Stir fry with garlic and seasonings.",
+          "Add soy sauce and toss well."
+        ]
+      }
+    ],
+    "kidney_beans": [
+      {
+        "dishName": "Rajma Masala",
+        "addOns": [
+          "tomato",
+          "onion",
+          "ginger",
+          "garam masala"
+        ],
+        "image": "https://shwetainthekitchen.com/wp-content/uploads/2020/12/Rajma-Masala.jpg",
+        "steps": [
+          "Soak and pressure cook kidney beans.",
+          "Prepare a spiced tomato-onion gravy.",
+          "Add beans and simmer until thick.",
+          "Serve with rice."
+        ]
+      },
+      {
+        "dishName": "Rajma Wrap",
+        "addOns": [
+          "tortilla",
+          "lettuce",
+          "sour cream"
+        ],
+        "image": "https://whatscookingmom.in/wp-content/uploads/2011/10/burrito-main.jpg",
+        "steps": [
+          "Sauté cooked rajma with spices.",
+          "Fill tortillas with rajma, lettuce, and toppings.",
+          "Wrap and serve."
+        ]
+      },
+      {
+        "dishName": "Rajma Salad",
+        "addOns": [
+          "onion",
+          "tomato",
+          "lemon",
+          "spices"
+        ],
+        "image": "https://www.archanaskitchen.com/images/archanaskitchen/0-Archanas-Kitchen-Recipes/2019/Chatpata_Rajma_Salad_Video_recipe_1.jpg",
+        "steps": [
+          "Mix boiled rajma with veggies.",
+          "Season with lemon juice and spices.",
+          "Serve chilled."
+        ]
+      }
+    ],
+    "fish": [
+      {
+        "dishName": "Fish Curry",
+        "addOns": [
+          "coconut milk",
+          "mustard seeds",
+          "chili"
+        ],
+        "image": "https://www.licious.in/blog/wp-content/uploads/2022/03/shutterstock_1891229335-min.jpg",
+        "steps": [
+          "Marinate fish with turmeric and salt.",
+          "Cook spices in oil, add coconut milk.",
+          "Add fish and simmer gently.",
+          "Serve with rice."
+        ]
+      },
+      {
+        "dishName": "Grilled Fish",
+        "addOns": [
+          "lemon",
+          "garlic",
+          "herbs"
+        ],
+        "image": "https://greatcurryrecipes.net/wp-content/uploads/2024/08/turkishfish9-735x980.jpg",
+        "steps": [
+          "Marinate fish with lemon and garlic.",
+          "Grill until golden on both sides.",
+          "Garnish and serve with dip."
+        ]
+      },
+      {
+        "dishName": "Fish Fry",
+        "addOns": [
+          "rice flour",
+          "spices",
+          "oil"
+        ],
+        "image": "https://www.spiceindiaonline.com/wp-content/uploads/2017/04/Meen-Varuval-Tilapia-Fish-Fry-2.jp",
+        "steps": [
+          "Coat fish in spiced flour.",
+          "Shallow fry until crispy.",
+          "Serve with onion rings and lemon."
+        ]
+      }
+    ],
+    "prawns": [
+      {
+        "dishName": "Prawn Curry",
+        "addOns": [
+          "coconut",
+          "curry leaves",
+          "garlic"
+        ],
+        "image": "https://thumbs.dreamstime.com/b/prawn-curry-indian-tomato-gravy-39065975.jpg",
+        "steps": [
+          "Cook spices and coconut paste.",
+          "Add prawns and simmer until cooked.",
+          "Serve hot with rice."
+        ]
+      },
+      {
+        "dishName": "Garlic Butter Prawns",
+        "addOns": [
+          "butter",
+          "garlic",
+          "parsley"
+        ],
+        "image": "https://www.shutterstock.com/image-photo/tiger-prawns-cooked-garlic-butter-600nw-2440785023.jpg",
+        "steps": [
+          "Sauté prawns in butter and garlic.",
+          "Cook until pink and garnish with parsley.",
+          "Serve immediately."
+        ]
+      },
+      {
+        "dishName": "Prawn Stir Fry",
+        "addOns": [
+          "bell peppers",
+          "soy sauce",
+          "ginger"
+        ],
+        "image": "https://www.eatwithcarmen.com/wp-content/uploads/2024/02/easy-prawns-recipe-stir-fry.jpg",
+        "steps": [
+          "Stir fry prawns with ginger and vegetables.",
+          "Add soy sauce and toss well.",
+          "Serve with noodles or rice."
+        ]
+      }
+    ],
+    "soya_beans": [
+      {
+        "dishName": "Soya Chunk Curry",
+        "addOns": [
+          "onion",
+          "tomato",
+          "garam masala"
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/05/soya-chunks-curry-recipe.jpg",
+        "steps": [
+          "Soak soya chunks and squeeze water.",
+          "Prepare a spiced gravy.",
+          "Add chunks and cook until soft.",
+          "Serve with rice or roti."
+        ]
+      },
+      {
+        "dishName": "Soya Biryani",
+        "addOns": [
+          "basmati rice",
+          "yogurt",
+          "mint"
+        ],
+        "image": "https://cookingfromheart.com/wp-content/uploads/2022/01/Soya-Biriyani-2-500x500.jpg",
+        "steps": [
+          "Marinate soya chunks and cook with rice and spices.",
+          "Layer and simmer to finish biryani.",
+          "Serve hot."
+        ]
+      },
+      {
+        "dishName": "Soya Keema",
+        "addOns": [
+          "peas",
+          "onion",
+          "garlic"
+        ],
+        "image": "https://img-global.cpcdn.com/recipes/eb9327949d95eeb0/680x482cq70/soya-oats-keema-recipe-main-photo.jpg",
+        "steps": [
+          "Grind soaked chunks into a mince.",
+          "Sauté with spices and peas.",
+          "Serve as a filling or side."
+        ]
+      }
+    ],
+    "beetroot": [
+      {
+        "dishName": "Beetroot Poriyal",
+        "addOns": [
+          "mustard seeds",
+          "coconut",
+          "green chili"
+        ],
+        "image": "https://foodtrails25.com/wp-content/uploads/2024/08/Beetroot-Poriyal-with-Peanuts.jpg",
+        "steps": [
+          "Grate beetroot and sauté with mustard and chili.",
+          "Add coconut and cook till soft.",
+          "Serve warm."
+        ]
+      },
+      {
+        "dishName": "Beetroot Paratha",
+        "addOns": [
+          "wheat flour",
+          "carom seeds",
+          "spices"
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/05/beetroot-paratha.jpg",
+        "steps": [
+          "Knead dough with grated beetroot and spices.",
+          "Roll and roast on tawa.",
+          "Serve with curd or pickle."
+        ]
+      },
+      {
+        "dishName": "Beetroot Halwa",
+        "addOns": [
+          "milk",
+          "sugar",
+          "ghee",
+          "nuts"
+        ],
+        "image": "https://someindiangirl.com/wp-content/uploads/2021/07/beetroot-halwa-6-of-6-scaled.jpg",
+        "steps": [
+          "Cook grated beetroot in ghee.",
+          "Add milk and sugar, cook till thick.",
+          "Add nuts and serve warm."
+        ]
+      }
+    ]
+  }
+}
